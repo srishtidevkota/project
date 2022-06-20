@@ -1,7 +1,9 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <h1>Homepage</h1>
+
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium non labore minima officia dicta nulla vitae laborum voluptatum a, corporis, tempora id eveniet. Dolore atque ab, ducimus reprehenderit nostrum quisquam.</p>
+<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laudantium non labore minima officia dicta nulla vitae laborum voluptatum a, corporis, tempora id eveniet. Dolore atque ab, ducimus reprehenderit nostrum quisquam.</p>
   </div>
 </template>
 
